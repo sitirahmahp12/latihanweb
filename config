@@ -1,0 +1,34 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/sitirahmah12/latihanwp2.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "origin1"]
+	url = https://github.com/sitirahmah12/latihanwp2.git
+	fetch = +refs/heads/*:refs/remotes/origin1/*
+[remote "origin2"]
+	url = https://github.com/sitirahmah12/latihan_git_1.git
+	fetch = +refs/heads/*:refs/remotes/origin2/*
+[remote "origin3"]
+	url = https://github.com/sitirahmahp12/latihan_git_1.git
+	fetch = +refs/heads/*:refs/remotes/origin3/*
+[branch "main"]
+	remote = origin6
+	merge = refs/heads/main
+[remote "orign"]
+	url = https://github.com/sitirahmahp/projectwp2
+	fetch = +refs/heads/*:refs/remotes/orign/*
+[remote "origin4"]
+	url = https://github.com/sitirahmahp/project2
+	fetch = +refs/heads/*:refs/remotes/origin4/*
+[remote "origin5"]
+	url = https://github.com/sitirahmahp12/latihanwp.git
+	fetch = +refs/heads/*:refs/remotes/origin5/*
+[remote "origin6"]
+	url = https://github.com/sitirahmahp12/web_kelompok10.git
+	fetch = +refs/heads/*:refs/remotes/origin6/*
